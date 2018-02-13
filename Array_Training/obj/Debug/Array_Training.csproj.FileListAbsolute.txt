@@ -1,0 +1,7 @@
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\bin\Debug\Array_Training.exe.config
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\bin\Debug\Array_Training.exe
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\bin\Debug\Array_Training.pdb
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\obj\Debug\Array_Training.csprojResolveAssemblyReference.cache
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\obj\Debug\Array_Training.csproj.CoreCompileInputs.cache
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\obj\Debug\Array_Training.exe
+C:\Users\jajdu\source\repos\Array_Training\Array_Training\obj\Debug\Array_Training.pdb
